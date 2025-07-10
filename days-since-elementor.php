@@ -3,7 +3,11 @@
  * Plugin Name: Days Since Counter (Elementor)
  * Description: Elementor widget to show "days since" a certain date.
  * Version: 1.0
- * Author: Your Name
+ * Author: Chetan Harvara
+ * Author URI: https://chetanharvara.netlify.app
+ * License: GPLv2 or later
+ * This plugin is designed to be used with Elementor and provides a widget that displays a counter showing the number of days since a specified date.
+ * It includes both an analog clock and a digital clock display, with fallback styles for browsers that
  */
 
 if (!defined('ABSPATH'))
